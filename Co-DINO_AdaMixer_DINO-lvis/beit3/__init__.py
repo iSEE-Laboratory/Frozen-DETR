@@ -1,0 +1,1 @@
+from .modeling_finetune import beit3_large_patch16_224_imageclassification

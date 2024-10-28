@@ -1,0 +1,1 @@
+from .models_dinov2 import vit_small, vit_base, vit_large, vit_giant2, transform
