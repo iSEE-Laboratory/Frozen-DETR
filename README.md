@@ -23,25 +23,25 @@ We expect the directory structure to be the following:
 ｜--Co-DINO_AdaMixer_DINO-lvis # code for Co-Dino, AdaMixer, and DINO on LVIS dataset
 ｜--DINO-coco # code for DINO on COCO dataset
 ｜--dataset
-		|--coco
-				|--annotations
-						|--instances_train2017.json
-						|--instances_val2017.json
-				|--train2017
-				|--val2017
-		|--lvis_v1
-				|--annotations
-						|--lvis_v1_train.json  # for stardard setting
-						|--lvis_v1_train_seen.json  # for open-vocabulary setting
-						|--lvis_v1_val.json
-				|--train2017
-				|--val2017
+	|--coco
+		|--annotations
+			|--instances_train2017.json
+			|--instances_val2017.json
+		|--train2017
+		|--val2017
+	|--lvis_v1
+		|--annotations
+			|--lvis_v1_train.json  # for stardard setting
+			|--lvis_v1_train_seen.json  # for open-vocabulary setting
+			|--lvis_v1_val.json
+		|--train2017
+		|--val2017
 |--pretrained_models
-		|--dinov2_vitl14_pretrain.pth
-		|--lvis_base_inds.txt
-		|--swin_base_patch4_window7_224_22k.pth
-		|--torchvision_resnet50.pth
-		|--ViT-L-14-336px.pt
+	|--dinov2_vitl14_pretrain.pth
+	|--lvis_base_inds.txt
+	|--swin_base_patch4_window7_224_22k.pth
+	|--torchvision_resnet50.pth
+	|--ViT-L-14-336px.pt
 ```
 
 - `dinov2_vitl14_pretrain.pth`: [download link](https://dl.fbaipublicfiles.com/dinov2/dinov2_vitl14/dinov2_vitl14_pretrain.pth)
