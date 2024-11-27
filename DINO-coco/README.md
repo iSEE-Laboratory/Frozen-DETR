@@ -40,7 +40,7 @@
 </table>
 
 - Notes: 
-  - All the checkpoints and logs are be found in [huggingface](https://huggingface.co/fushh7/Frozen-DETR) and [modelscope](https://modelscope.cn/models/fushh7/Frozen-DETR/summary). Please download and place them in `Frozen-DETR-ckpt`.
+  - All the checkpoints and logs can be found in [huggingface](https://huggingface.co/fushh7/Frozen-DETR) and [modelscope](https://modelscope.cn/models/fushh7/Frozen-DETR/summary). Please download and place them in `Frozen-DETR-ckpt`.
 
 
 ### 2 Usage
