@@ -52,7 +52,7 @@ We expect the directory structure to be the following:
 
 ### 4 Models
 
-Please see `Co-DINO_AdaMixer_DINO-lvis` and `DINO-coco` for details.
+Please see `Co-DINO_AdaMixer_DINO-lvis`, `DINO-coco` and `MS-DETR` for details.
 
 ### 5 License
 
